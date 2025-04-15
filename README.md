@@ -1,19 +1,18 @@
 # Trampoline Activity Tracker (TAT)
 
-Trampoline Activity Tracker (TAT) is a SwiftUI-based app designed to monitor and record your trampoline activities. Whether you're tracking jumps, flips, twists, or drops, TAT provides real-time statistics and session summaries to help you improve your technique and stay fit—all while ensuring your privacy and data security.
+Trampoline Activity Tracker (TAT) is a SwiftUI-based app designed to monitor and record your trampoline sessions. Whether you're tracking jumps, flips, twists, or drops, TAT gives you real-time statistics and detailed session summaries—all while keeping your data private and secure.
 
 ## Features
 
-- **Real-Time Motion Tracking:** Uses CoreMotion to detect and count jumps, flips, twists, and drops.
-- **Session Management:** Start, pause, resume, and stop sessions with a high-frequency timer that accurately tracks your active time.
-- **Snapshot Sharing:** Capture and share session stats with a neatly designed share sheet.
-- **Background Processing:** Efficiently runs motion tracking in the background while keeping battery usage optimized.
+- **Real-Time Motion Tracking:** Leverages CoreMotion to detect and count your jumps, flips, twists, and drops.
+- **Accurate Session Timing:** Offers start, pause, resume, and stop functions with a high-frequency timer for precise session tracking.
+- **Snapshot Sharing:** Capture and share your session statistics with a beautifully designed share sheet.
+- **Background Processing:** Efficiently tracks motion data in the background to maintain session continuity.
 
 ## Requirements
 
 - **Xcode:** Version 16 or later
-- **iOS:** 18.2 (or higher); works on iPhone and Simulator
-- **Device:** iPhone 12, iPhone 16 Pro, or later models for testing and performance verification.
+- **iOS:** Version 18.2 or higher (works on iPhone simulators and physical devices)
 
 ## Installation
 
